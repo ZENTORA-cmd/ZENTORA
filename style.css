@@ -273,15 +273,15 @@ header {
   height: 80px;
 }
 
-.logo-wrapper {
-  display: flex;
-  align-items: center;
-  height: 48px;
+.logo-wrapper{
+    display:flex;
+    align-items:center;
 }
 
-.logo-svg {
-  width: 140px;
-  height: 48px;
+.logo-svg{
+    height: 50px;
+    width: auto;
+    object-fit: contain;
 }
 
 .nav-menu {
